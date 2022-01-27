@@ -5,5 +5,5 @@ https://arxiv.org/abs/1709.01507
 ![image](https://user-images.githubusercontent.com/88080722/151354122-7ba5f138-4d71-4f97-98c6-4f3eff179b94.png)
 
 - backbone: resnet20, paras: 272474
-- senet paras: 274490
+- resnet20_SE paras: 274490
 
